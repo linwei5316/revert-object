@@ -1,0 +1,21 @@
+{
+  "name": "revert-object",
+  "version": "1.0.0",
+  "description": "revert-object",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linwei5316/revert-object.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linwei5316/revert-object/issues"
+  },
+  "homepage": "https://github.com/linwei5316/revert-object#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
